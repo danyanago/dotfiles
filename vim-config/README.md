@@ -17,6 +17,8 @@ To set up Vim with these configurations and plugins:
 
 ## Citations
 
-- Vundle: "VundleVim/Vundle.vim." GitHub, https://github.com/VundleVim/Vundle.vim. Accessed [Date].
-- Dracula Theme: "dracula/vim." GitHub, https://github.com/dracula/vim. Accessed [Date].
-- Fugitive Plugin: "tpope/vim-fugitive." GitHub, https://github.com/tpope/vim-fugitive. Accessed [Date].
+- Vundle: "VundleVim/Vundle.vim." GitHub, https://github.com/VundleVim/Vundle.vim.
+- Dracula Theme: "dracula/vim." GitHub, https://github.com/dracula/vim.
+- Fugitive Plugin: "tpope/vim-fugitive." GitHub, https://github.com/tpope/vim-fugitive. 
+
+
