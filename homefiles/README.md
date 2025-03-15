@@ -36,7 +36,8 @@ This file, which provides an overview of the files in the `homefiles` directory,
 
 1. Clone this repository into your home directory (or another directory of your choice):
     ```bash
-    git clone https://your-repository-url.git
+    git clone https://repository-url.git
+       
     ```
 
 2. Navigate to the `homefiles` directory:
@@ -69,7 +70,5 @@ This setup is inspired by various open-source contributions and best practices f
 - **Bash Aliases and Functions**: https://www.digitalocean.com/community/tutorials
 - **Dotfiles Setup Best Practices**: https://github.com/mathiasbynens/dotfiles
 - **Bash Completion Features**: https://bash-completion.readthedocs.io/en/latest
-
-- ** The Ultimate Bash Aliases**: https://gist.github.com/zachbrowne/8bc414c9f30192067831fafebd14255c
-
-- ** Linux Command Cheat Sheet**: https://www.linuxcommand.org/
+- **The Ultimate Bash Aliases**: https://gist.github.com/zachbrowne/8bc414c9f30192067831fafebd14255c
+- **Linux Command Cheat Sheet**: https://www.linuxcommand.org/
