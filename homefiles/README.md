@@ -72,7 +72,9 @@ This setup is inspired by various open-source contributions and best practices f
 - **Bash Completion Features**: https://bash-completion.readthedocs.io/en/latest
 - **The Ultimate Bash Aliases**: https://gist.github.com/zachbrowne/8bc414c9f30192067831fafebd14255c
 - **Linux Command Cheat Sheet**: https://www.linuxcommand.org/
-- PS: I used the help of AI in the establishment of my script.
+
+
+PS: I used the help of AI in the establishment of my script.
 
 ### Prompt: 
   1. Script to back up my current `.bashrc`,
