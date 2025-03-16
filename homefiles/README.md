@@ -32,7 +32,7 @@ This script automates the setup process for the user’s Bash environment. It pe
 ### 4. `README.md`
 This file, which provides an overview of the files in the `homefiles` directory, how they are used, and instructions for setting them up.
 
-## Installation Instructions
+## Installation Process (not tailored to me, set to of general reference)
 
 1. Clone this repository into your home directory (or another directory of your choice):
     ```bash
@@ -64,7 +64,7 @@ This file, which provides an overview of the files in the `homefiles` directory,
 
 ## Citation and References
 
-This setup is inspired by various open-source contributions and best practices for customizing the Bash environment. The following resources were referenced while creating the scripts and configuration files:
+This setup is inspired by various open-source contributions and best practices for customizing the Bash environment, also from the material presented in the class. The following resources were referenced while creating the scripts and configuration files:
 
 - **Bash Documentation**: https://www.gnu.org/software/bash/manual/
 - **Bash Aliases and Functions**: https://www.digitalocean.com/community/tutorials
@@ -72,3 +72,11 @@ This setup is inspired by various open-source contributions and best practices f
 - **Bash Completion Features**: https://bash-completion.readthedocs.io/en/latest
 - **The Ultimate Bash Aliases**: https://gist.github.com/zachbrowne/8bc414c9f30192067831fafebd14255c
 - **Linux Command Cheat Sheet**: https://www.linuxcommand.org/
+- PS: I used the help of AI in the establishment of my script.
+
+### Prompt: 
+  1. Script to back up my current `.bashrc`,
+
+  2. To this script, How to create a sym link with a script from a repository to an alias,
+
+  3. Then I put the script together and gave it back to ask how to check for missing packages? 
