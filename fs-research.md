@@ -54,3 +54,11 @@ In summary, GlusterFS is a powerful, scalable, and open-source distributed file 
 * Open Source Storage Comparison: https://www.tecmint.com/best-open-source-storage-management-software/
 
 * GlusterFS Performance Tuning Guide: https://access.redhat.com/documentation/en-us/red_hat_gluster_storage/3.5/html/performance_tuning_guide/
+
+## Some Interesting Lectures
+
+* GlusterFS Architecture Overview – A detailed explanation of how GlusterFS functions at a technical level:
+https://www.gluster.org/architecture/
+
+* Comparison of Distributed File Systems – A research article comparing GlusterFS with other distributed storage solutions:
+https://arxiv.org/pdf/1904.09622.pdf
