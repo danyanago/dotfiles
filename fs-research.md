@@ -57,8 +57,11 @@ In summary, GlusterFS is a powerful, scalable, and open-source distributed file 
 
 ## Some Interesting Lectures
 
-* GlusterFS Architecture Overview – A detailed explanation of how GlusterFS functions at a technical level:
-https://www.gluster.org/architecture/
+* GlusterFS Architecture Overview – This document offers a comprehensive look into the architecture of GlusterFS, detailing its components and their interactions. 
+HTTPS://DOCS.GLUSTER.ORG
+
+* GlusterFS Performance Tuning Guide – This guide provides detailed instructions on configuring GlusterFS to enhance performance across various workloads. 
+HTTPS://DOCS.GLUSTER.ORG
 
 * Comparison of Distributed File Systems – A research article comparing GlusterFS with other distributed storage solutions:
 https://arxiv.org/pdf/1904.09622.pdf
