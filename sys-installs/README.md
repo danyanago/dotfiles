@@ -19,18 +19,22 @@ This script installs the AWS Command Line Interface (CLI) version 2 on Ubuntu Li
 
 ### How to use
 
-```bash
+```
 sudo ./install-awscli.sh
 
 After the script completes, verify the installation with:
 
 aws --version
 
+```
 
-References
-AWS CLI Installation Guide (Official) - Used for CLI install steps and download URL.
+## References
 
-AI Use Disclosure
-This script was developed with help from OpenAI’s ChatGPT to guide logic structure, shell scripting syntax, and documentation format.
+[AWS CLI Installation Guide (Official)](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) - Used for CLI install steps and download URL.
+
+### AI Use Disclosure
+
+This script was developed with help from OpenAI’s ChatGPT to guide logic structure, and shell scripting syntax
+
 Prompt used: Write a bash script to install AWS CLI on Ubuntu with checks for root, apt, and existing aws command
 
