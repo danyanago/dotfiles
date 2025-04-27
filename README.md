@@ -6,7 +6,7 @@
 
 Now that the install was completed and worked I couldn't remove it. 
 
-PS: Leasson learned.
+PS: Lesson learned.
 
 ### Future Improvement: Task 1: It's safe to use the USER variable so next time I will not have to hardcode the username. 
 
