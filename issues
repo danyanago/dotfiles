@@ -24,3 +24,7 @@ PS: Instructor recommendation and good improvement for my future self.
 * Automate full setup with a Makefile
 
 * Expand install scripts for more software
+
+* Write additional install scripts for other common dev tools 
+
+* Refactor research notes (fs-research.md, personal-backup.md) into a `docs/` folder
