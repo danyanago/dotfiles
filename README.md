@@ -1,18 +1,4 @@
 ## Task 4: Repository Content 
 
-### Polish & Documentation
 
-### Issue: 
-
-Task 3: Removing `--update` from the flags
-
-Now that the install was completed and worked I couldn't remove it. 
-
-PS: Lesson learned.
-
-### Future Improvement: 
-
-Task 1: It's safe to use the USER variable so next time I will not have to hardcode the username. 
-
-PS: Instructor recommendation and good improvement for my future self.
 
