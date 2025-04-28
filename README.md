@@ -14,8 +14,8 @@ This repository contains configuration files and setup scripts for customizing a
 
 * fs-research.md, personal-backup.md — Research and personal notes
 
-  https://github.com/danyanago/dotfiles/tree/main
-
+* Issues - Retrospective on past tasks and notes for future use 
+ 
  #### To clone the Repository and Get into the directory :
 
   ```
